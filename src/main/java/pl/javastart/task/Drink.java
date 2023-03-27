@@ -1,6 +1,5 @@
 package pl.javastart.task;
 
-
 public class Drink {
     private String name;
     private double price;
