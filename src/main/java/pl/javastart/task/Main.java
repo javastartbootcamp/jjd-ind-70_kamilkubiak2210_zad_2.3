@@ -1,7 +1,6 @@
 package pl.javastart.task;
 
 public class Main {
-
     public static void main(String[] args) {
         Drink drink1 = new Drink();
         drink1.setName("Mojito");
